@@ -1,0 +1,6 @@
+C:\Users\42072\source\repos\Training\DesignPatterns\bin\Debug\DesignPatterns.dll
+C:\Users\42072\source\repos\Training\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\42072\source\repos\Training\DesignPatterns\obj\Debug\DesignPatterns.csprojAssemblyReference.cache
+C:\Users\42072\source\repos\Training\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\42072\source\repos\Training\DesignPatterns\obj\Debug\DesignPatterns.dll
+C:\Users\42072\source\repos\Training\DesignPatterns\obj\Debug\DesignPatterns.pdb

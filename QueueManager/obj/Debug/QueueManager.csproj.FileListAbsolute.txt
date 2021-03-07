@@ -1,0 +1,6 @@
+C:\Users\42072\source\repos\Training\QueueManager\bin\Debug\QueueManager.dll
+C:\Users\42072\source\repos\Training\QueueManager\bin\Debug\QueueManager.pdb
+C:\Users\42072\source\repos\Training\QueueManager\obj\Debug\QueueManager.csprojAssemblyReference.cache
+C:\Users\42072\source\repos\Training\QueueManager\obj\Debug\QueueManager.csproj.CoreCompileInputs.cache
+C:\Users\42072\source\repos\Training\QueueManager\obj\Debug\QueueManager.dll
+C:\Users\42072\source\repos\Training\QueueManager\obj\Debug\QueueManager.pdb

@@ -1,0 +1,6 @@
+C:\Users\42072\source\repos\Training\Extensions\bin\Debug\Extensions.dll
+C:\Users\42072\source\repos\Training\Extensions\bin\Debug\Extensions.pdb
+C:\Users\42072\source\repos\Training\Extensions\obj\Debug\Extensions.csprojAssemblyReference.cache
+C:\Users\42072\source\repos\Training\Extensions\obj\Debug\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\42072\source\repos\Training\Extensions\obj\Debug\Extensions.dll
+C:\Users\42072\source\repos\Training\Extensions\obj\Debug\Extensions.pdb

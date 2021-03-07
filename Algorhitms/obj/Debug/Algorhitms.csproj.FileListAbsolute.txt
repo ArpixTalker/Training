@@ -1,0 +1,9 @@
+C:\Users\42072\source\repos\Training\Algorhitms\bin\Debug\Algorhitms.dll
+C:\Users\42072\source\repos\Training\Algorhitms\bin\Debug\Algorhitms.pdb
+C:\Users\42072\source\repos\Training\Algorhitms\obj\Debug\Algorhitms.csproj.CoreCompileInputs.cache
+C:\Users\42072\source\repos\Training\Algorhitms\obj\Debug\Algorhitms.dll
+C:\Users\42072\source\repos\Training\Algorhitms\obj\Debug\Algorhitms.pdb
+C:\Users\42072\source\repos\Training\Algorhitms\bin\Debug\Extensions.dll
+C:\Users\42072\source\repos\Training\Algorhitms\bin\Debug\Extensions.pdb
+C:\Users\42072\source\repos\Training\Algorhitms\obj\Debug\Algorhitms.csprojAssemblyReference.cache
+C:\Users\42072\source\repos\Training\Algorhitms\obj\Debug\Algorhitms.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\42072\source\repos\Training\Others\bin\Debug\Others.dll
+C:\Users\42072\source\repos\Training\Others\bin\Debug\Others.pdb
+C:\Users\42072\source\repos\Training\Others\obj\Debug\Others.csprojAssemblyReference.cache
+C:\Users\42072\source\repos\Training\Others\obj\Debug\Others.csproj.CoreCompileInputs.cache
+C:\Users\42072\source\repos\Training\Others\obj\Debug\Others.dll
+C:\Users\42072\source\repos\Training\Others\obj\Debug\Others.pdb

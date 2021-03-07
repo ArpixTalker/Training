@@ -1,0 +1,6 @@
+C:\Users\42072\source\repos\Training\Connect\bin\Debug\Connect.dll
+C:\Users\42072\source\repos\Training\Connect\bin\Debug\Connect.pdb
+C:\Users\42072\source\repos\Training\Connect\obj\Debug\Connect.csprojAssemblyReference.cache
+C:\Users\42072\source\repos\Training\Connect\obj\Debug\Connect.csproj.CoreCompileInputs.cache
+C:\Users\42072\source\repos\Training\Connect\obj\Debug\Connect.dll
+C:\Users\42072\source\repos\Training\Connect\obj\Debug\Connect.pdb
